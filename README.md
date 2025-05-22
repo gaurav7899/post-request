@@ -1,3 +1,3 @@
-learn django form 
-learn django tailwind
+learn django form <br/>
+learn django tailwind  <br/>
 learn django crispy
